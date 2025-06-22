@@ -37,5 +37,5 @@ To create a dashboard that provides a clear overview of sales performance enabli
 - To use it hold CTRL and then click it to reset all the slicer's.
 
 
-```
+
 
