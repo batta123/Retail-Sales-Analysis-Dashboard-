@@ -36,14 +36,6 @@ To create a dashboard that provides a clear overview of sales performance enabli
 
 - To use it hold CTRL and then click it to reset all the slicer's.
 
-## Getting Started
 
-Clone this repository to your local machine by using the following command :
-```
-git clone https://github.com/TheMrityunjayPathak/RetailStoreSalesDashboard.git
 ```
 
-## Link to the Dataset
-[Retail Store Sales Dataset](https://github.com/TheMrityunjayPathak/RetailStoreSalesDashboard/tree/main/Dataset)
-
-![Screenshot_20230616_035317](https://github.com/TheMrityunjayPathak/RetailStoreSalesDashboard/assets/123563634/1725e494-528f-4ebc-a76a-87704d820f30)
